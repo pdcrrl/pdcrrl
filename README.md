@@ -16,9 +16,9 @@
 
 <h1 align="center">Hello World 👋</h1>
 
-<h4 align="left">👩‍💻  About Me</h4>
+<h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">I'm from Londrina - PR 🇧🇷<br><br>- 📚 Computing Science at UniFil</p>
+<p align="left"><br>📍 Londrina, PR, Brazil<br>📚 Computer Science at UniFil<br></p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
