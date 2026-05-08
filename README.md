@@ -16,7 +16,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left"><br>📍 Londrina, PR, Brazil<br>📚 Computer Science at UniFil<br>🎵Enthusiast of black metal and its subgenres</p>
+<p align="left"><br>📍 Londrina, PR, Brazil<br>📚 Computer Science at UniFil<br>🎵 Enthusiast of black metal and its subgenres</p>
 
 <h3 align="left">🛠 My current toolkit</h3>
 
