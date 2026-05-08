@@ -2,14 +2,15 @@
   <img height="500" src="https://i.pinimg.com/originals/7f/8d/87/7f8d8717e4d02c204a58a954b15bac6a.gif"  />
 </div>
 
-<h1 align="center">hi, i'm <a href="https://github.com/pdcrrl">pdcrrl</a>!</h1>
+
+<br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/pedro-carriel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
   <a href="mailto:pedro.galera@edu.unifil.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-carriel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
