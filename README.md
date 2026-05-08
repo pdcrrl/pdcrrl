@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<h1 align="center">Hello World 👋</h1>
+<h1 align="center">hi, i'm <a href="https://github.com/pdcrrl;">pdcrrl</a>!</h1>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
