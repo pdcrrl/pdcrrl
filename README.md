@@ -2,7 +2,7 @@
   <img height="500" src="https://i.pinimg.com/originals/7f/8d/87/7f8d8717e4d02c204a58a954b15bac6a.gif"  />
 </div>
 
-<h1 align="center">hi, i'm <a href="https://github.com/pdcrrl;">pdcrrl</a>!</h1>
+<h1 align="center">hi, i'm <a href="https://github.com/pdcrrl">pdcrrl</a>!</h1>
 
 <div align="center">
   <a href="www.linkedin.com/in/pedro-carriel" target="_blank">
