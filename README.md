@@ -21,7 +21,7 @@
 <h3 align="left">🛠 My current toolkit</h3>
 
 <p align="center">
-  <img src=./kit.svg >
+  <img src=./kit.svg alt="java, js, html5, css3">
 </p>
 
 <h3 align="left">🔥   My Stats :</h3>
