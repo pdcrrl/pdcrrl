@@ -5,14 +5,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <a href="mailto:pedro.galera@edu.unifil.br" target="_blank">
-    <img src=./GMAIL.svg height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-carriel" target="_blank">
-    <img src=./LINKEDIN.svg height="40" alt="linkedin logo"  />
-  </a>
-</div>
+<div align="center"><a href="mailto:pedro.galera@edu.unifil.br" target="_blank"><img src=./GMAIL.svg height="40" alt="gmail logo" /></a><a href="https://www.linkedin.com/in/pedro-carriel" target="_blank"><img src=./LINKEDIN.svg height="40" alt="linkedin logo" /></a></div>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
