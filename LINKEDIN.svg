@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1820 560" width="1820" height="560">
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #022b21 } 
+		.t1 { font-size: 100px;fill: #8fbca8;font-weight: 400;font-family: "Absans-Regular", "Absans" } 
+	</style>
+	<g>
+		<path fill-rule="evenodd" class="s0" d="m1820 0v560h-1820v-560z"/>
+	</g>
+	<g>
+		<text id="LINKEDIN" style="transform: matrix(2,0,0,2,910,350)">
+			<tspan x="-228.3" y="0" class="t1">LINKEDIN
+</tspan>
+		</text>
+	</g>
+</svg>
