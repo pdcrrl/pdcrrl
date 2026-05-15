@@ -21,9 +21,7 @@
 <h3 align="left">🛠 My current toolkit</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css" />
-  </a>
+  <img src=./kit.svg >
 </p>
 
 <h3 align="left">🔥   My Stats :</h3>
